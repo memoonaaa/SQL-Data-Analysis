@@ -29,7 +29,7 @@ This project focuses on analyzing sales data using SQL to answer business-relate
 
 ## Project Files
 
-* `sales_analysis.sql` — Contains all SQL queries used for the analysis.
+- [Sales Analysis.sql](Sales%20Analysis.sql) — Contains all SQL queries used for the analysis.
 
 ## Key Takeaway
 
