@@ -27,7 +27,7 @@ This project focuses on analyzing sales data using SQL to answer business-relate
 * Aggregate functions such as `COUNT()`, `SUM()`, and `AVG()`
 * Data analysis using grouped queries
 
-## Project Files
+## Project File
 
 - [Sales Analysis.sql](Sales%20Analysis.sql) — Contains all SQL queries used for the analysis.
 
